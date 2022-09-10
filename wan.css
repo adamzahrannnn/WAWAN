@@ -1,0 +1,60 @@
+.body{
+    margin-left: 10px;
+}
+.navbar {
+    background-color: darkorange;
+    color : white;
+    text-decoration: none;
+    height: 1.5cm;
+}
+
+.navbar a{
+    text-align: justify;
+    float: right;
+    text-decoration: none;
+    color: white;
+    margin : 18px 15px;
+    text-align: center;
+}
+
+.pp {
+    height: auto;
+    background-color: whitesmoke;
+    padding-top: 2cm;
+    text-align: center;
+}
+
+aside{
+    float: right;
+    width: 30%;
+    border: 20px;
+    background-color :rgba(159, 252, 159, 0.562);
+    padding-bottom: 20px;
+}
+
+aside p {
+    margin-left: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+}
+img{
+    height: 7cm;
+    width: 8cm;
+    margin : 1cm 1.5cm;
+    border: rgba(14, 14, 14, 0.993);
+}
+
+.footer{
+    height: auto;
+    background-color: darkorange;
+}
+aside a{
+  float: left;  
+  margin-left: 10px;
+}
+.footer{
+    height: 1.5cm;
+    text-align: center;
+    margin-top: 20px;
+}
+
